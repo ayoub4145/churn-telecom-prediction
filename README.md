@@ -25,7 +25,7 @@ De l’analyse exploratoire des données (EDA) jusqu’à la construction et l�
 
 ## Étapes réalisées
 
-### 1️⃣ Analyse Exploratoire (EDA)
+###  Analyse Exploratoire (EDA)
 
 - Analyse de la distribution des variables
 - Étude du lien entre chaque feature et le churn
@@ -33,7 +33,7 @@ De l’analyse exploratoire des données (EDA) jusqu’à la construction et l�
 - Détection des outliers sur les variables numériques
 - Analyse du déséquilibre de la target
 
-### 2️⃣ Data Preprocessing
+###  Data Preprocessing
 
 - Encodage des variables catégorielles
 - Normalisation des variables numériques
@@ -41,13 +41,13 @@ De l’analyse exploratoire des données (EDA) jusqu’à la construction et l�
 - Séparation Train / Test
 - Gestion du déséquilibre des classes
 
-### 3️⃣ Modélisation
+###  Modélisation
 
 - Modèle utilisé : **Régression Logistique**
 - Entraînement sur les données d’entraînement
 - Prédiction sur le jeu de test
 
-### 4️⃣ Évaluation du modèle
+###  Évaluation du modèle
 
 | Métrique | Score |
 |----------|-------|
@@ -57,11 +57,11 @@ De l’analyse exploratoire des données (EDA) jusqu’à la construction et l�
 | F1-Score | **84.07 %** |
 | AUC | **0.9209** |
 
-👉 L’AUC très élevée montre une excellente capacité du modèle à distinguer les clients churn / non churn.
+L’AUC très élevée montre une excellente capacité du modèle à distinguer les clients churn / non churn.
 
 ---
 
-## 🧠 Variables les plus influentes sur le churn
+## Variables les plus influentes sur le churn
 
 Les facteurs principaux identifiés :
 
@@ -108,7 +108,7 @@ Le modèle peut être utilisé pour prédire le churn sur **de nouvelles donnée
 
 ---
 
-## 👨‍💻 Auteur
+## Auteur
 
 **Ayoub Berhili**  
 Master Cybersécurité & Science des Données — Université Paris 8  
